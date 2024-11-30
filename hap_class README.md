@@ -22,7 +22,7 @@ hap_class 能够根据片段SNP对材料分进行分型、分类。该软件是�
 
 下载完成后，./hap_class_for_linux_V2.0 [argements]即可运行，下图为正常运行状态
 
-![image-20241126154032861](/Users/dagongziabo/Documents/Typora/.photo/image-20241126154032861.png)
+![image-20241126154032861](/Users/dagongziabo/Downloads/hap_class/plot/image-20241126154032861.png)
 
 ## 主要参数说明
 
@@ -52,7 +52,7 @@ MAC版本目前两大模块
 
 #### mac版本的图形操作界面展示
 
-![image-20241121092648641](/Users/dagongziabo/Documents/Typora/.photo/image-20241121092648641.png)
+![image-20241121092648641](/Users/dagongziabo/Downloads/hap_class/plot/image-20241121092648641.png)
 
 
 
