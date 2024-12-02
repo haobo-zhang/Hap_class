@@ -124,23 +124,23 @@ MAC版本目前两大模块
 基因型分型 并且自动识别出所在基因型、用kmeans的话能够展示出对应的tre结果
 
 <<<<<<< HEAD
-![image-20241120155805127](/Users/dagongziabo/Downloads/hap_class/plot/image-20241120155805127.png)
+![image-20241120155805127](./plot/image-20241120155805127.png)
 
 基因型分型结果
 
-![image-20241130150011762](/Users/dagongziabo/Downloads/hap_class/plot/image-20241130150011762.png)
+![image-20241130150011762](./plot/image-20241130150011762.png)
 
 plot_k文件（该文件定义来帮助我们确定k值）
 
-![image-20241130150137302](/Users/dagongziabo/Downloads/hap_class/plot/image-20241130150137302.png)
+![image-20241130150137302](./plot/image-20241130150137302.png)
 
 tre文件（确定材料间亲缘关系，在层次聚类中才有，相似比对法中不存在）
 
-![image-20241130150253635](/Users/dagongziabo/Downloads/hap_class/plot/image-20241130150253635.png)
+![image-20241130150253635](./plot/image-20241130150253635.png)
 
 热图绘制文件（为之后自定义绘图准备）
 
-![image-20241130150342904](/Users/dagongziabo/Downloads/hap_class/plot/image-20241130150342904.png)
+![image-20241130150342904](./plot/image-20241130150342904.png)
 =======
 ![image-20241120155805127](./plot/image-20241120155805127.png)
 
